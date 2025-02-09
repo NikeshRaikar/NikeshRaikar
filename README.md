@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikeshRaikar
+- 👋 Hi, I’m @Nikiikin
 - 👀 I’m interested in Automation by python 
 - 🌱 I’m forever learning python 
 - 💞️ 
